@@ -1,0 +1,40 @@
+body {
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+	color: orange;
+	background-color: black;
+}
+h1 {
+	color: orange;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-color: #ccc;
+
+}
+h2 {
+	font-size: 1.5em;
+	background-color: black;
+	margin: 20px;
+	padding: 40px;
+	border-style: solid;
+	border-width: 3px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: #ccc;
+}
+h3 {
+	margin: 20px;
+	padding: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-color: #ccc;
+}
+.dog {
+	border: 1px #ccc solid;
+}
+
